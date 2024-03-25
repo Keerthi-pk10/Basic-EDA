@@ -1,1 +1,5 @@
-# Inferences found through basic EDA and Data visualisations for the spending and income dataset.
+# Basic EDA and Data visualisations :
+<ul>
+  <li>Spending and income dataset</li>
+<li>Sales invoice dataset</li>
+</ul>
